@@ -56,7 +56,7 @@ int main()
     int i, j, n, u, v, e, w, k;
 
     // cin>>n>>e;
-    for (int node = 20; node < 900; node += 20)
+    for (int node = 20; node < 800; node += 20)
     {
         n=node;
         int edge=0;
